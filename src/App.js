@@ -5,6 +5,7 @@ function App() {
   return (
     <div className="App">
         <span className='title'>Todo List</span>
+        <span>A</span>
         <Todo_App/>
     </div>
     
